@@ -1,0 +1,8 @@
+.smooth{-webkit-transition:all .3s ease-out;-moz-transition:all .3s ease-out;-o-transition:all .3s ease-out;transition:all .3s ease-out;}
+.catagories-container{max-height:200px;overflow:auto}
+.catagories-container ul{list-style:none}
+.catagories-container>ul{padding-left:0}
+.catagories-container ul ul {padding-left:20px}
+.cup{cursor:pointer}
+.row-actions{opacity: 0}
+td:hover .row-actions{opacity: 1}
